@@ -1,5 +1,5 @@
 This is a basi text file.
-Let's start a list of cols.
+Let's start a list of colors.
 
 Colors of a rainbow:
 
