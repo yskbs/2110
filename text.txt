@@ -1,13 +1,22 @@
+<<<<<<< HEAD
 
 
 This is a basi text file.
 Let's start a list.
+=======
+This is a basi text file.
+Let's start a list of colors.
+>>>>>>> bbfeca0c615d8ba3bdbdb1b1c5a50312a0d691bd
 
 Colors of a rainbow:
 
 1.red
 2.orange
 3.yellow
+<<<<<<< HEAD
 4.5ywh  
 
+=======
+  
+>>>>>>> bbfeca0c615d8ba3bdbdb1b1c5a50312a0d691bd
 
