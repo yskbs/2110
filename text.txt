@@ -1,1 +1,13 @@
-dbn hn
+
+
+This is a basi text file.
+Let's start a list.
+
+Colors of a rainbow:
+
+1.red
+2.orange
+3.yellow
+4.5ywh  
+
+
